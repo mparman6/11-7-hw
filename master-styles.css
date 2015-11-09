@@ -1,4 +1,25 @@
+.logo{
+  height: 50px;
+  width: 275px;
+}
 
+.container-fluid{
+  padding: 0;
+}
+
+.navbar-brand{
+  padding: 0;
+}
+
+#bs-example-navbar-collapse-1{
+  background-color: black;
+}
+
+.form-control{
+  position: fixed;
+  right: 20px;
+  top: 9px;
+}
 
 .navbar-header h4 {
 	margin-right: 50px;
@@ -16,6 +37,7 @@ button {
 
 element.style {
 }
+
 #sidebar .module.community-bulletin {
     padding: 10px;
     background-color: #fff8dc;
