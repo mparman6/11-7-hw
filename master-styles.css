@@ -1,3 +1,12 @@
+.dropdown{
+    left: 120px;
+    bottom: 10px;
+}
+
+#nav{
+    width: 50%;
+}
+
 .logo{
   height: 50px;
   width: 275px;
