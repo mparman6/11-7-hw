@@ -8,6 +8,10 @@
   padding-bottom: 0 !important;
 }
 
+#signup{
+  margin-left:200px;
+}
+
 #help{
   position: relative;
   top: -25px;
@@ -68,6 +72,27 @@ button {
 	margin: 0;
 	width: 100%;
 	padding: 0;
+}
+
+.signuphead{
+  font-size: 20px;
+  text-align: center;
+}
+
+.form{
+  font-weight: bold;
+}
+
+#signupform{
+  width: 100%;
+}
+
+.center{
+  text-align: center;
+}
+
+.more-opts{
+  font-size: 11px;
 }
 
 element.style {
